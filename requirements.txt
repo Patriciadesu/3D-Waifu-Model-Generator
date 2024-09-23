@@ -1,0 +1,5 @@
+bpy
+trimesh
+plyfile
+torch
+numpy
